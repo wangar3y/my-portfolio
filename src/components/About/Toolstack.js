@@ -3,7 +3,7 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiJupyter,
   SiVisualstudiocode,
-  SiMicrosoftpowerbi,
+  SiPowerbi,
   SiGooglecolab,
   SiGithub,
   SiNotion,
@@ -14,7 +14,7 @@ function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMicrosoftpowerbi />
+        <SiPowerbi />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiJupyter />
