@@ -21,7 +21,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={powerbi}
-              title="GOPA Kenya Field Operations Dashboard"
+              title="Kenya Field Operations Dashboard"
               description="Developed a centralized Power BI dashboard consolidating manual timesheet and budget spend records from field teams across 8 Kenyan counties. Automated data consolidation to provide management with real-time visibility of staff hours and expenditure, replacing manual spreadsheet compilation."
               githubLink="https://github.com/wangar3y"
             />
